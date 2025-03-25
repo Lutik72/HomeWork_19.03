@@ -15,6 +15,6 @@
 ![Ветки](new.png)
 3. Вносим правки
 4. Создаём коммит ```git commit -m "комментарий к коммиту"```
-![]()
-5. Вливаем изменения в GitHub ```git push --set-upstream origin name_branch```
+![Создание коммита](commit.png)
+5. Вливаем изменения в GitHub ```git push --set-upstream name_branch```
 ![]()
